@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+Romeo Rosete # Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
